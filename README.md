@@ -5,6 +5,7 @@ link do editor: https://p5js.org/
 
 
 Jogos clássicos parte 2: laços e listas com Javascript.
+link do curso: https://cursos.alura.com.br/course/javascript-listas-lacos
 
 Descrição do aprendido no curso.
 Crie um jogo do zero, com animações, pontuação e sons.
